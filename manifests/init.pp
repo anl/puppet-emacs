@@ -19,6 +19,7 @@
 # === Copyright
 #
 # Copyright 2012 Andrew Leonard, Seattle Biomedical Research Institute
+# Portions Copyright 2012 Andrew Leonard
 #
 class emacs inherits emacs::params {
 
